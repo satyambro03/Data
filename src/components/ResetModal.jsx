@@ -15,6 +15,7 @@ export default function ResetModal({ onConfirm, onCancel }) {
           <X className="w-5 h-5" />
         </button>
 
+
         <div className="flex items-center gap-3 mb-4">
           <div className="w-12 h-12 rounded-full bg-red-50 flex items-center justify-center">
             <AlertTriangle className="w-6 h-6 text-red-500" />
